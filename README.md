@@ -1,6 +1,6 @@
 # Cryptocurrencies
 Unsupervised Machine Learning and Cryptocurrencies
-## Challenge
+## Application introduction
 Please refer to the Challenge.ipynb file:
 [Link to code](https://github.com/keyoumao/Cryptocurrencies/blob/master/Challenge.ipynb) 
 
