@@ -2,7 +2,7 @@
 Unsupervised Machine Learning and Cryptocurrencies
 ## Challenge
 Please refer to the Challenge.ipynb file:
-[Link to Challenge solutions](https://github.com/keyoumao/Cryptocurrencies/blob/master/Challenge.ipynb) 
+[Link to code](https://github.com/keyoumao/Cryptocurrencies/blob/master/Challenge.ipynb) 
 
 - **a 3D scatter plot using Plotly Express to plot the clusters using the clustered_df DataFrame. You should include the following parameters on the plot: hover_name="CoinName" and hover_data=["Algorithm"] to show this additional info on each data point:**
 
