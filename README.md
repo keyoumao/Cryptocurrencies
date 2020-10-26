@@ -18,14 +18,14 @@ Please refer to the Challenge.ipynb file:
 
 
 ## Data Visulization
-- **a 3D scatter plot using Plotly Express to plot the clusters using the clustered_df DataFrame. 
-This plot includes the following parameters on the plot: hover_name="CoinName" and hover_data=["Algorithm"] to show this additional info on each data point:**
+- **a 3D scatter plot using Plotly Express to plot the clusters using the clustered_df DataFrame.**
+This plot includes the following parameters on the plot: hover_name="CoinName" and hover_data=["Algorithm"] to show this additional info on each data point:
 
 ![alt text](https://github.com/keyoumao/Cryptocurrencies/blob/master/newplot.png "Logo Title Text 1")
 
 
-- **a scatter plot using hvplot.scatter to present the clustered data about cryptocurrencies 
-This plot has x="TotalCoinsMined" and y="TotalCoinSupply" to contrast the number of available coins versus the total number of mined coins. Use the hover_cols=["CoinName"] parameter to include the cryptocurrency name on each data point:**
+- **a scatter plot using hvplot.scatter to present the clustered data about cryptocurrencies**
+This plot has x="TotalCoinsMined" and y="TotalCoinSupply" to contrast the number of available coins versus the total number of mined coins. Use the hover_cols=["CoinName"] parameter to include the cryptocurrency name on each data point:
 
 ![alt text](https://github.com/keyoumao/Cryptocurrencies/blob/master/bokeh_plot.png "Logo Title Text 1")
 
